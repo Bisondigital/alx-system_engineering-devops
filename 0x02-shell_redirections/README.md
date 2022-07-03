@@ -4,4 +4,5 @@
 2. hello-file. > Display the content of the /etc/passwd file.
 3. What about 2? > Display the content of /etc/passwd and /etc/host
 4. Lastlines > Display the last 10 lines of /etc/passwd
-5. firstlines > Display the first 10 lines of /etc/passwd 
+5. firstlines > Display the first 10 lines of /etc/passwd
+6. Thirdline > The file iacta will be in the working directory 
